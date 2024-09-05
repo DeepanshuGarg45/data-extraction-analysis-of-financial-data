@@ -1,4 +1,4 @@
-# Financial Data Extraction and Analysis for Apple, Microsoft, & Tesla (2021-2023)
+# Financial Data Extraction and Analysis for Apple, Microsoft, and Tesla (2021-2023)
 
 This repository contains a Jupyter Notebook that performs financial data extraction, analysis, and summary reporting for three major tech companies—Apple, Microsoft, and Tesla—over the fiscal years 2021 to 2023.
 
@@ -29,7 +29,7 @@ The main objective of this project is to compute and analyze the growth rates of
    ```
 3. Open the Jupyter Notebook:
    ```bash
-   jupyter notebook "Forage BCGX Gen AI Task 1 Data Extraction and Initial Analysis.ipynb"
+   jupyter notebook "Data Extraction and Initial Analysis.ipynb"
    ```
 4. Run the cells to extract the financial data and generate the summary report.
 
