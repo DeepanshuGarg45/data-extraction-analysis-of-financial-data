@@ -12,8 +12,11 @@ The main objective of this project is to compute and analyze the growth rates of
 - **Trend Analysis (optional)**: Analyzes trends to provide insights into the financial performance of the companies.
 
 ## Files
-- `Forage BCGX Gen AI Task 1 Data Extraction and Initial Analysis.ipynb`: Jupyter Notebook containing the code for data extraction, analysis, and report generation.
+- `Data Extraction and Initial Analysis.ipynb`: Jupyter Notebook containing the code for data extraction, analysis, and report generation.
 - `Summary_final_report.csv`: Generated CSV file summarizing the growth rates for Apple, Microsoft, and Tesla over the fiscal years 2021 to 2023.
+- `final_report.csv`: CSV report containing detailed financial performance metrics for Apple, Microsoft, and Tesla.
+- `final_data_report.csv`: CSV report compiling raw financial data for Apple, Microsoft, and Tesla from 2021-2023.
+
 
 ## Usage
 1. Clone the repository:
@@ -40,10 +43,3 @@ You can install these using:
 ```bash
 pip install pandas numpy matplotlib
 ```
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-You can customize this further depending on any additional files or details specific to your project.
