@@ -1,4 +1,4 @@
-# Financial Data Extraction and Analysis for Apple, Microsoft, and Tesla (2021-2023)
+# Financial Data Extraction and Analysis for Apple, Microsoft, & Tesla (2021-2023)
 
 This repository contains a Jupyter Notebook that performs financial data extraction, analysis, and summary reporting for three major tech companies—Apple, Microsoft, and Tesla—over the fiscal years 2021 to 2023.
 
