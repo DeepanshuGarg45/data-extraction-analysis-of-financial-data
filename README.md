@@ -21,7 +21,7 @@ The main objective of this project is to compute and analyze the growth rates of
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/financial-data-analysis.git
+   git clone https://github.com/DeepanshuGarg45/data-extraction-analysis-of-financial-data.git
    ```
 2. Navigate to the project folder:
    ```bash
